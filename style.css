@@ -8,6 +8,7 @@ span{
 }
 section{
     display:flex;
+    margin-bottom:150px;
 
 }
 .half-width{
@@ -22,7 +23,7 @@ section{
 h1{
     font-size:50px;
 }
-.link-in{
+.link-button{
     background:orange;
     padding:10px 30px;
     border-radius:5px;
@@ -37,6 +38,14 @@ h1{
     background-image:url(./images/top-banner.png);
     background-repeat:no-repeat;
 }
+.dream-big{
+    background-image:url(./images/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position:right;
+
+}
+
+
 
 
 
